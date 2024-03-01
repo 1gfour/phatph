@@ -1,5 +1,5 @@
 # 💫 I'm Hung Phat:
-✍ I graduated from: FPT Univercity.<br>
+✍ I graduated from: FPT University.<br>
 🌱 I interned at: FPT Software.<br>
 🔭 I’m currently working on improving my coding skills and building personal projects to showcase my abilities.<br>👯 I’m looking to collaborate on open-source projects or small development teams where I can contribute and learn from experienced developers.<br>🤝 I’m looking for help with understanding best practices in software development and gaining insights into industry standards.<br>🌱 I’m currently learning new programming languages, frameworks, and tools to broaden my skill set and stay updated with the latest technologies.<br>💬 Ask me about my programming journey, challenges I've faced, or my aspirations in the tech industry.
 
